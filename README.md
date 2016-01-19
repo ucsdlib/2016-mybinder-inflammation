@@ -1,6 +1,6 @@
 # Serving data + Software Carpentry lessons via mybinder.org - a quick demo
 
-[![Binder](http://mybinder.org/badge.svg)](http://mybinder.org/repo/ctb/2016-mybinder-inflammation)
+[![Binder](http://mybinder.org/badge.svg)](http://mybinder.org/repo/ucsdlib/2016-mybinder-inflammation)
 
 (Click on the 'launch binder' button ^^^)
 
